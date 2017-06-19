@@ -1,2 +1,2 @@
-# shop
-Springboot angularjs
+# shop project
+Springboot angularjs project
